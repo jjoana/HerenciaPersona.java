@@ -15,7 +15,6 @@ public class Persona {
         this.colorpelo = colorpelo;
         this.altura = altura; 
     }
-
     //Metodo getter para edad
 
     public int getedad(){
